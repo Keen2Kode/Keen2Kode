@@ -1,7 +1,5 @@
 Hello and welcome to my Github page! 
 
-I’m a **Software Engineer** with **4+ years of experience** building and maintaining systems across the full SDLC. I focus on backend delivering solutions that are not only functional but also **scalable, reliable, and maintainable**. I bring a **quality-first mindset**, and a **practical approach** to backend development with a **measured use of AI**. I work directly with my clients and enjoy turning complex requirements into clear, working solutions.  
-
 ---
 
 ### 💼 Background
