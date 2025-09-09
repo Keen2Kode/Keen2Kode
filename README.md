@@ -22,7 +22,7 @@ I’m a **Software Engineer** with **4+ years of experience** building and maint
 - Utilizing **Agentic AI** for more generative work, such as Test Case management.
 - Building a Discord bot with **Python** for my University Club.
 - Learning **C# and .NET Core** to expand into new ecosystems
-- Brushing up on my algorithm skills on **LeetCode**. See my progress below!
+- Brushing up on my algorithm and C# skills on **LeetCode**. You can see my current progress [here.](https://github.com/Keen2Kode/LeetCode-Solutions)
   
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Keen2Kode?theme=dark&ext=heatmap)](https://leetcode.com/Keen2Kode/)
 
